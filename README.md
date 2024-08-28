@@ -29,14 +29,23 @@
 <a href="https://leetcode.com/u/Shivam892/">
 <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="30% width="40"/>
 </a>
+
+ <br>
+ 
 <a href="https://www.codechef.com/users/shivam_892">
 <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="30% width="40"/>
 </a>
+
+<br>
+
 <a href="https://www.geeksforgeeks.org/user/shivamjain892/">
 <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30% width="40"/>
 </a>
+
+<br>
+
 <a href="https://codeforces.com/profile/Shivam_892">
-<img align="center" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcer3l19eex0wy900b101.jpg" height="30% width="40"/>
+<img align="center" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcer3l19eex0wy900b101.jpg" height="5% width="5"/>
 </a>
 
  
