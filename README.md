@@ -7,7 +7,7 @@
 
 -  Ask me about **Web Dev and Competitive Programming**
 
--  How to reach me **katish332@gmail.com**
+-  How to reach me **shivamjain892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
