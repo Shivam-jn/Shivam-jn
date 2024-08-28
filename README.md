@@ -45,7 +45,7 @@
 <br>
 
 <a href="https://codeforces.com/profile/Shivam_892">
-<img align="center" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcer3l19eex0wy900b101.jpg" height="5% width="5"/>
+<img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" height="10% width="10"/>
 </a>
 
  
